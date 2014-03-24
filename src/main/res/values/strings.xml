@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ziwei</string>
+    <string name="client_name">姓名</string>
+    <string name="clientName">Enter your name here</string>
+    <string name="edit_date">Enter your birthday here</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_calulate">Submit</string>
+    <string name="birthdate">出生日期（西曆）： </string>
+    <string name="birthtime">出生時辰： </string>
+    <string name="edit_time">Enter your birth time here</string>
+
+</resources>
